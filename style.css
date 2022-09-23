@@ -1,0 +1,109 @@
+.jumbotron {
+	background-image: url(banner.jpg);
+	background-size: cover;
+	height: 650px;
+	text-decoration-color: white;
+}
+
+.jumbotron h1 {
+	color: white;
+	margin-top: 115px;
+	font-size: 70px;
+	text-shadow: 1px 1px blue;
+}
+
+.jumbotron p {
+	color: ;
+	background: linear-gradient();
+	color: white;
+	text-shadow: 2px 2px 2px blue;
+}
+
+
+
+
+.jumbotron hr {
+	border-color: #ffffff;
+	width: 425px;
+	border-width: 2PX
+}
+
+.jumbotron .btn {
+	margin-left: 20px;
+	margin-top: 52px;
+}
+
+
+
+
+
+.col2 .img {
+	width: 490px;
+	float: right;
+	margin-top: -360px;
+}
+
+
+.container .tentang {
+	margin-top: 50px;
+}
+
+.tentang h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.tentang p {
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+.container .galeri {
+	margin-top: 90px;
+}
+
+
+
+
+.galeri h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.card-group {
+	margin-top: 29px;
+	background-color: #24ffff;
+}
+
+.kontak h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.kontak {
+	text-align: center;
+	margin-top: 70px;
+}
+
+
+.kontak .icon {
+	margin-top: 20px;
+}
+
+.kontak p {
+	font-size: 20px;
+}
+
+
+.footer {
+	background-color: #6b60e7;
+	height: 68px;
+	text-align: center;
+}
+
+.footer p {
+	font-size: 16px;
+	color: white;
+}
